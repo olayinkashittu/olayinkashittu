@@ -49,12 +49,12 @@ Electrical/Electronic Engineering Certificate
 - Career Objective
 To secure a role as an IT Support Technician or IT Administrator where I can apply my technical skills, grow within IT infrastructure management, and contribute to efficient and reliable IT operations in an organization.
 
-- Contact
-GitHub: https://github.com/olayinkashittu
+Contact
+- GitHub: https://github.com/olayinkashittu
 
-LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
+- LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
 
-Email: talk2_olayinka@yahoo.com
+- Email:talk2_olayinka@yahoo.com
 
 - Note for Recruiters
 This repository demonstrates my practical understanding of IT support operations, networking fundamentals, system administration, and service desk workflows through hands-on lab environments and structured simulations.
