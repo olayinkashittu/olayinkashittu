@@ -50,8 +50,10 @@ Electrical/Electronic Engineering Certificate
 To secure a role as an IT Support Technician or IT Administrator where I can apply my technical skills, grow within IT infrastructure management, and contribute to efficient and reliable IT operations in an organization.
 
 - Contact
-GitHub: https://github.com/olayinkashittu)
+GitHub: https://github.com/olayinkashittu
+
 LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
+
 Email: talk2_olayinka@yahoo.com
 
 - Note for Recruiters
