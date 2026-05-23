@@ -8,23 +8,23 @@ I am proficient in IT service desk operations using tools such as Jira, where I 
 My goal is to contribute to IT teams by delivering reliable technical support, improving system performance, and ensuring smooth IT operations.
 
 - Technical Skills
-💻 Operating Systems
+Operating Systems
 Windows 10 / 11 Administration
 Linux (basic system administration)
 
-🌐 Networking
+- Networking
 TCP/IP configuration and troubleshooting
 LAN/WAN fundamentals
 Basic routing and switching concepts
 Network diagnostics and connectivity support
 
-🧑‍💼 IT Support & Tools
+- IT Support & Tools
 Helpdesk & ticketing systems Jira Service Management
 Incident and request management
 Remote user support
 Troubleshooting hardware and software issues
 
-🔐 Directory & Access Management
+- Directory & Access Management
 User account creation and management
 Basic Active Directory administration
 Password resets and permission management
@@ -45,7 +45,18 @@ Documented IT support processes and response actions
 Cisco Networking Fundamentals Certification
 Jira Service Management Training Certification
 Electrical/Electronic Engineering Certificate
-- 
+
+- Career Objective
+To secure a role as an IT Support Technician or IT Administrator where I can apply my technical skills, grow within IT infrastructure management, and contribute to efficient and reliable IT operations in an organization.
+
+- Contact
+GitHub: (add your profile link here)
+LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
+Email: talk2_olayinka@yahoo.com
+
+- Note for Recruiters
+This repository demonstrates my practical understanding of IT support operations, networking fundamentals, system administration, and service desk workflows through hands-on lab environments and structured simulations.
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
