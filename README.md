@@ -60,7 +60,10 @@ Documented IT support processes and response actions
 - Active Directory User Management
 - Network Troubleshooting Labs
 - Windows Server Configuration
-
+- PC Health Check Script (PowerShell)
+- Network Ping Sweep Tool
+- Disk Space Monitoring Script
+- User Account Audit Tool
 ## Certifications
 Cisco Networking Fundamentals Certification
 Jira Service Management Training Certification
@@ -70,14 +73,13 @@ Electrical/Electronic Engineering Certificate
 - Career Objective
 To secure a role as an IT Support Technician or IT Administrator where I can apply my technical skills, grow within IT infrastructure management, and contribute to efficient and reliable IT operations in an organization.
 
-## Connect With Me
+## Contact
 - GitHub: https://github.com/olayinkashittu
-
 - LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
-
 - Email:talk2_olayinka@yahoo.com
 
-## Note for Recruiters
+## Career Objective
+Seeking an IT Support / System Administrator role where I can apply my technical skills to improve system reliability, user support, and network performance.
 This repository demonstrates my practical understanding of IT support operations, networking fundamentals, system administration, and service desk workflows through hands-on lab environments and structured simulations.
 <!---
 olayinkashittu/olayinkashittu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
