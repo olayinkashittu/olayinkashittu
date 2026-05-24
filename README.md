@@ -1,3 +1,13 @@
+# IT Support & System Administration Portfolio
+
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## 👨‍💻 Overview
+
+IT Support Administrator with hands-on experience in system administration, networking, and IT service desk operations.
 # Hi, I'm @olayinkashittu
 I am an IT Support Administrator with hands-on experience in managing IT systems, supporting network infrastructure, and troubleshooting hardware.
 Resolving incidents efficiently, and providing high-quality technical support to end users to ensure minimal downtime and improved productivity.
