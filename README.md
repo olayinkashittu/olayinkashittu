@@ -68,7 +68,7 @@ To secure a role as an IT Support Technician or IT Administrator where I can app
 
 - Email:talk2_olayinka@yahoo.com
 
-- Note for Recruiters
+## Note for Recruiters
 This repository demonstrates my practical understanding of IT support operations, networking fundamentals, system administration, and service desk workflows through hands-on lab environments and structured simulations.
 <!---
 olayinkashittu/olayinkashittu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
