@@ -6,7 +6,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 👨‍💻 Overview
-
 IT Support Administrator with hands-on experience in system administration, networking, and IT service desk operations.
 # Hi, I'm @olayinkashittu
 I am an IT Support Administrator with hands-on experience in managing IT systems, supporting network infrastructure, and troubleshooting hardware.
