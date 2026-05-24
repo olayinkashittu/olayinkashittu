@@ -1,7 +1,7 @@
 # IT Support & System Administration Portfolio
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
+![GitHub last commit](https://img.shields.io/github/last-commit/olayinkashittu/it-support-portfolio)
+![GitHub repo size](https://img.shields.io/github/last-commit/olayinkashittu/it-support-portfolio)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
