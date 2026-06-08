@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 👨‍💻 Overview
-IT Support Administrator with hands-on experience in system administration, networking, and IT service desk operations.
+IT Support Administrator, systems engineer with hands-on experience in system administration, networking, and IT service desk operations.
 # Hi, I'm @olayinkashittu
 I am an IT Support Administrator with hands-on experience in managing IT systems, supporting network infrastructure, and troubleshooting hardware.
 Resolving incidents efficiently, and providing high-quality technical support to end users to ensure minimal downtime and improved productivity.
@@ -24,6 +24,7 @@ My goal is to contribute to IT teams by delivering reliable technical support, i
 - Troubleshooting & IT Support
 - Microsoft 365
 - PowerShell
+- Azure
 - Hardware & Software Support
 - Networking
 TCP/IP configuration and troubleshooting
