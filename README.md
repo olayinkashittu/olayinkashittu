@@ -23,6 +23,8 @@ My goal is to contribute to IT teams by delivering reliable technical support, i
 - TCP/IP Networking
 - Troubleshooting & IT Support
 - Microsoft 365
+- SharePoint
+- Entra ID
 - PowerShell
 - Azure
 - Hardware & Software Support
