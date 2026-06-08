@@ -19,9 +19,11 @@ My goal is to contribute to IT teams by delivering reliable technical support, i
 ## Skills
 - Windows & Linux Administration
 - Active Directory
+- Windows Server
 - TCP/IP Networking
 - Troubleshooting & IT Support
 - Microsoft 365
+- PowerShell
 - Hardware & Software Support
 - Networking
 TCP/IP configuration and troubleshooting
@@ -53,6 +55,7 @@ Documented IT support processes and response actions
 ## Currently Learning
 - CCNA
 - Network Security
+- Microsoft Certifications
 - Fiber Optic & PON Technologies
 
 ## Projects
@@ -64,6 +67,10 @@ Documented IT support processes and response actions
 - Network Ping Sweep Tool
 - Disk Space Monitoring Script
 - User Account Audit Tool
+- Active Directory lab
+- Microsoft 365 administration
+- PowerShell automation
+  
 ## Certifications
 Cisco Networking Fundamentals Certification
 Jira Service Management Training Certification
