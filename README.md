@@ -63,7 +63,7 @@ Troubleshooting hardware and software issues
 User account creation and management
 Password resets and permission management
 
-- Projects & Practical Work
+Projects & Practical Work
 🖥️ Enterprice LAN Design
 • Designed VLAN based enterprise network. 
 • Implemented inter VLAN routing. 
