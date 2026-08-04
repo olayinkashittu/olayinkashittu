@@ -132,7 +132,7 @@ To secure a role as an IT Support Technician or IT Administrator where I can app
 ## Contact
 - GitHub: https://github.com/olayinkashittu
 - LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
-- Email:talk2_olayinka@yahoo.com
+- Email:olayinka.shittu@outlook.com
 
 ## Career Objective
 Seeking an IT Support / System Administrator role where I can apply my technical skills to improve system reliability, user support, and network performance.
