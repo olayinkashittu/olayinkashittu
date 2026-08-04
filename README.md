@@ -6,7 +6,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 👨‍💻 Overview
-IT Support Administrator, systems engineer with hands-on experience in system administration, networking, and IT service desk operations.
+Dedicated IT Support Administrator and Network Support professional with experience supporting enterprise IT infrastructure, users, and network environments. Skilled in Cisco networking, LAN/WAN support, TCP/IP, routing and switching, Windows Server administration, Active Directory, Microsoft 365, VPN connectivity, DHCP, DNS, and IT service management. Strong troubleshooting and customer support abilities with a commitment to maintaining highly available and secure IT systems.
+
 # Hi, I'm @olayinkashittu
 I am an IT Support Administrator with hands-on experience in managing IT systems, supporting network infrastructure, and troubleshooting hardware.
 Resolving incidents efficiently, and providing high-quality technical support to end users to ensure minimal downtime and improved productivity.
@@ -17,18 +18,38 @@ I am proficient in IT service desk operations using tools such as Jira, where I 
 My goal is to contribute to IT teams by delivering reliable technical support, improving system performance, and ensuring smooth IT operations.
 
 ## Skills
-- Windows & Linux Administration
+- Cisco IOS
+- Routing & Switching
+- LAN/WAN
+- IPv4
+- IPv6
+- VLANs
+- STP
+- EtherChannel
+- VPN
+- DHCP
+- DNS
+- NAT
+- TCP/IP
+- Wireless Networking
+- Operating Systems
+- Windows 10/11
+- Windows Server 2016/2019/2022
+- Linux
+- Microsoft Technologies
 - Active Directory
-- Windows Server
-- TCP/IP Networking
-- Troubleshooting & IT Support
+- Group Policy
 - Microsoft 365
-- SharePoint
 - Entra ID
+- Monitoring & Tools
+- Cisco Packet Tracer
+- Wireshark
+- Remote Desktop
+- TeamViewer
 - PowerShell
 - Azure
 - Hardware & Software Support
-- Networking
+  
 TCP/IP configuration and troubleshooting
 LAN/WAN fundamentals
 Basic routing and switching concepts
@@ -40,26 +61,48 @@ Remote user support
 Troubleshooting hardware and software issues
 - Directory & Access Management
 User account creation and management
-Basic Active Directory administration
 Password resets and permission management
 
 - Projects & Practical Work
+🖥️ Enterprice LAN Design
+• Designed VLAN based enterprise network. 
+• Implemented inter VLAN routing. 
+• Configure DHCP. 
+• Implement STP. 
+• Documented topology.
+
+🖥️ Cisco Network Troubleshooting Lab 
+• Diagnosed routing failures. 
+• Configure static routes. 
+• Tested OSPF connectivity. 
+• Used Wireshark to analyses packets. 
+
+🖥️ Windows Server Administration 
+• Active Directory 
+• Group Policy 
+• DNS 
+• DHCP 
+• Users Management 
+• File Server
+
 🖥️ IT Support Lab Environment (Home Lab)
 Built a simulated IT environment using virtual machines
 Practiced Windows system setup and troubleshooting
 Simulated common IT support scenarios (login issues, software errors, network failures)
 
-- Jira Service Desk Simulation
+🖥️ Jira Service Desk Simulation
 Created and managed sample IT support tickets
 Practiced incident categorization (low, medium, high priority)
 Simulated ticket resolution workflows from open → in progress → resolved
 Documented IT support processes and response actions
 
 ## Currently Learning
-- CCNA
+- ITIL foundation
+- CompTia Network+
+- Cisco CCNA
 - Network Security
 - Microsoft Certifications
-- Fiber Optic & PON Technologies
+- cybersecurity 
 
 ## Projects
 - Home Lab Setup
@@ -71,15 +114,17 @@ Documented IT support processes and response actions
 - Disk Space Monitoring Script
 - User Account Audit Tool
 - Active Directory lab
-- Microsoft 365 administration
+- Microsoft
+-  365 administration
 - PowerShell automation
   
 ## Certifications
-Cisco Networking Fundamentals Certification
-Jira Service Management Training Certification
-Electrical/Electronic Engineering Certificate
-- Cisco Networking Academy
-- CompTIA (in progress)
+Cisco Networking Certificate 
+Jira Fundamentals 
+FreeCodeCamp Web Development certificate Professional Diploma 
+Certificate in Electrical & Electronics Engineering
+CompTIA (in progress)
+
 - Career Objective
 To secure a role as an IT Support Technician or IT Administrator where I can apply my technical skills, grow within IT infrastructure management, and contribute to efficient and reliable IT operations in an organization.
 
