@@ -131,7 +131,7 @@ To secure a role as an IT Support Technician or IT Administrator where I can app
 
 ## Contact
 - GitHub: https://github.com/olayinkashittu
-- LinkedIn: https://www.linkedin.com/in/olayinka-shittu-24070b16?
+- LinkedIn: https://www.linkedin.com/in/olayinka-shittu-it
 - Email:olayinka.shittu@outlook.com
 
 ## Career Objective
