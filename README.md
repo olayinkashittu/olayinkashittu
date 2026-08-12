@@ -17,51 +17,16 @@ I have practical experience working with Windows and Linux operating systems, co
 I am proficient in IT service desk operations using tools such as Jira, where I handle incident tracking, service requests, and workflow management to ensure efficient resolution of technical issues.
 My goal is to contribute to IT teams by delivering reliable technical support, improving system performance, and ensuring smooth IT operations.
 
-## Skills
-- Cisco IOS
-- Routing & Switching
-- LAN/WAN
-- IPv4
-- IPv6
-- VLANs
-- STP
-- EtherChannel
-- VPN
-- DHCP
-- DNS
-- NAT
-- TCP/IP
-- Wireless Networking
-- Operating Systems
-- Windows 10/11
-- Windows Server 2016/2019/2022
-- Linux
-- Microsoft Technologies
-- Active Directory
-- Group Policy
-- Microsoft 365
-- Entra ID
-- Monitoring & Tools
-- Cisco Packet Tracer
-- Wireshark
-- Remote Desktop
-- TeamViewer
-- PowerShell
-- Azure
-- Hardware & Software Support
-  
-TCP/IP configuration and troubleshooting
-LAN/WAN fundamentals
-Basic routing and switching concepts
-Network diagnostics and connectivity support
-- IT Support & Tools
-Helpdesk & ticketing systems Jira Service Management
-Incident and request management
-Remote user support
-Troubleshooting hardware and software issues
-- Directory & Access Management
-User account creation and management
-Password resets and permission management
+## 🛠️ Technical Skills
+
+- **Operating Systems:** Windows Server, Windows, Linux
+- **Networking:** TCP/IP, LAN/WAN, Routing & Switching, VLANs, VPN
+- **Windows Server:** Active Directory, DNS, DHCP, Group Policy
+- **Microsoft:** Microsoft 365 administration
+- **Networking:** Cisco networking and troubleshooting
+- **Administration:** User and access management, system administration
+- **Automation:** PowerShell
+- **IT Service Management:** IT support, incident management, troubleshooting
 
 Projects & Practical Work
 
