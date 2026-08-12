@@ -28,6 +28,16 @@ My goal is to contribute to IT teams by delivering reliable technical support, i
 - **Automation:** PowerShell
 - **IT Service Management:** IT support, incident management, troubleshooting
 
+## 🧪 Hands on Projects
+
+- Windows Server 2022 Active Directory Domain Controller Lab
+- Active Directory user and group management
+- Windows Server and DNS configuration
+- Cisco networking and troubleshooting labs
+- Linux administration labs
+- PowerShell automation projects
+- Network troubleshooting and connectivity testing
+
 Projects & Practical Work
 
 # Windows Server 2022 Active Directory Lab
