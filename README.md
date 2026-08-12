@@ -165,6 +165,6 @@ My goal is to contribute to reliable and secure IT operations while continuously
 
 ## Contact
 
-- GitHub: https://github.com/olayinkashittu
-- LinkedIn: https://www.linkedin.com/in/olayinka-shittu-it
+- GitHub: github.com/olayinkashittu
+- LinkedIn: linkedin.com/in/olayinka-shittu-it
 - Email: olayinka.shittu@outlook.com
