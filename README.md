@@ -125,9 +125,5 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
               |
              jdoe
 
-
-lab.local
-│
-└── IT
-    ├── jdoe
-    └── IT-Admins
+```text
+```
