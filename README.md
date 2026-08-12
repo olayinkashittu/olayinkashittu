@@ -125,3 +125,46 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
               |
              jdoe
 
+```text 
+```
+## Active Directory Structure
+
+```text
+lab.local
+│
+└── IT
+    ├── jdoe
+    └── IT-Admins
+```text
+```
+
+## Currently Learning
+
+- CompTIA Network+ — In Progress
+- Cisco CCNA
+- Network Security
+- Cybersecurity
+- Microsoft Technologies
+- IT Infrastructure & System Administration
+
+## Certifications & Qualifications
+
+- Cisco Networking Certificate
+- Jira Fundamentals
+- FreeCodeCamp Web Development Certificate
+- Professional Diploma in Web Development
+- Certificate in Electrical & Electronics Engineering
+
+## Career Objective
+
+Seeking an IT Support Technician, IT Administrator, Network Support, or Junior System Administrator role where I can apply my practical skills in IT support, networking, Windows Server administration, Active Directory, and troubleshooting.
+
+I am building hands-on experience through practical lab environments and structured projects covering system administration, network configuration, Active Directory, PowerShell, cybersecurity, and IT service management.
+
+My goal is to contribute to reliable and secure IT operations while continuously developing my technical skills and progressing within IT infrastructure and systems administration.
+
+## Contact
+
+- GitHub: https://github.com/olayinkashittu
+- LinkedIn: https://www.linkedin.com/in/olayinka-shittu-it
+- Email: olayinka.shittu@outlook.com
