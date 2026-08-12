@@ -65,7 +65,7 @@ Password resets and permission management
 
 Projects & Practical Work
 
-# Windows Server 2022 Active Directory Lab
+🖥️ Windows Server 2022 Active Directory Lab
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-green)
