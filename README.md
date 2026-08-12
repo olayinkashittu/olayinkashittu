@@ -126,26 +126,6 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
              jdoe
 
 ## Currently Learning
-- ITIL foundation
-- CompTia Network+
-- Cisco CCNA
-- Network Security
-- Microsoft Certifications
-- cybersecurity 
-
-## Projects
-- Home Lab Setup
-- Active Directory User Management
-- Network Troubleshooting Labs
-- Windows Server Configuration
-- PC Health Check Script (PowerShell)
-- Network Ping Sweep Tool
-- Disk Space Monitoring Script
-- User Account Audit Tool
-- Active Directory lab
-- Microsoft
--  365 administration
-- PowerShell automation
   
 ## Certifications
 Cisco Networking Certificate 
