@@ -124,4 +124,3 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
              IT              IT-Admins
               |
              jdoe
-
