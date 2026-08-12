@@ -124,37 +124,6 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
              IT              IT-Admins
               |
              jdoe
-🖥️ Enterprice LAN Design
-• Designed VLAN based enterprise network. 
-• Implemented inter VLAN routing. 
-• Configure DHCP. 
-• Implement STP. 
-• Documented topology.
-
-🖥️ Cisco Network Troubleshooting Lab 
-• Diagnosed routing failures. 
-• Configure static routes. 
-• Tested OSPF connectivity. 
-• Used Wireshark to analyses packets. 
-
-🖥️ Windows Server Administration 
-• Active Directory 
-• Group Policy 
-• DNS 
-• DHCP 
-• Users Management 
-• File Server
-
-🖥️ IT Support Lab Environment (Home Lab)
-Built a simulated IT environment using virtual machines
-Practiced Windows system setup and troubleshooting
-Simulated common IT support scenarios (login issues, software errors, network failures)
-
-🖥️ Jira Service Desk Simulation
-Created and managed sample IT support tickets
-Practiced incident categorization (low, medium, high priority)
-Simulated ticket resolution workflows from open → in progress → resolved
-Documented IT support processes and response actions
 
 ## Currently Learning
 - ITIL foundation
