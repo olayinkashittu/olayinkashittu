@@ -125,27 +125,3 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
               |
              jdoe
 
-## Currently Learning
-  
-## Certifications
-Cisco Networking Certificate 
-Jira Fundamentals 
-FreeCodeCamp Web Development certificate Professional Diploma 
-Certificate in Electrical & Electronics Engineering
-CompTIA (in progress)
-
-- Career Objective
-To secure a role as an IT Support Technician or IT Administrator where I can apply my technical skills, grow within IT infrastructure management, and contribute to efficient and reliable IT operations in an organization.
-
-## Contact
-- GitHub: https://github.com/olayinkashittu
-- LinkedIn: https://www.linkedin.com/in/olayinka-shittu-it
-- Email:olayinka.shittu@outlook.com
-
-## Career Objective
-Seeking an IT Support / System Administrator role where I can apply my technical skills to improve system reliability, user support, and network performance.
-This repository demonstrates my practical understanding of IT support operations, networking fundamentals, system administration, and service desk workflows through hands-on lab environments and structured simulations.
-<!---
-olayinkashittu/olayinkashittu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
