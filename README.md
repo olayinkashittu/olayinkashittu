@@ -5,17 +5,13 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-## 👨‍💻 Overview
-Dedicated IT Support Administrator and Network Support professional with experience supporting enterprise IT infrastructure, users, and network environments. Skilled in Cisco networking, LAN/WAN support, TCP/IP, routing and switching, Windows Server administration, Active Directory, Microsoft 365, VPN connectivity, DHCP, DNS, and IT service management. Strong troubleshooting and customer support abilities with a commitment to maintaining highly available and secure IT systems.
+## 👨‍💻 IT Support & Network Professional
 
-# Hi, I'm @olayinkashittu
-I am an IT Support Administrator with hands-on experience in managing IT systems, supporting network infrastructure, and troubleshooting hardware.
-Resolving incidents efficiently, and providing high-quality technical support to end users to ensure minimal downtime and improved productivity.
+I am an IT Support Administrator and Network Support professional with hands-on experience supporting IT infrastructure, end users, and network environments.
 
-- Professional Summary
-I have practical experience working with Windows and Linux operating systems, configuring and maintaining network environments (TCP/IP, LAN/WAN), and managing user access and permissions through directory services.
-I am proficient in IT service desk operations using tools such as Jira, where I handle incident tracking, service requests, and workflow management to ensure efficient resolution of technical issues.
-My goal is to contribute to IT teams by delivering reliable technical support, improving system performance, and ensuring smooth IT operations.
+My technical skills include Windows Server administration, Active Directory, Cisco networking, TCP/IP, LAN/WAN, routing and switching, DNS, DHCP, VPN connectivity, Microsoft 365, Linux administration, PowerShell, and IT service management.
+
+I enjoy troubleshooting technical issues, improving system reliability, supporting users, and building secure and efficient IT environments.
 
 ## 🛠️ Technical Skills
 
