@@ -65,6 +65,76 @@ Password resets and permission management
 
 Projects & Practical Work
 
+# Windows Server 2022 Active Directory Lab
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-green)
+![PowerShell](https://img.shields.io/badge/PowerShell-Administration-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-orange)
+
+## Project Overview
+
+This project demonstrates the deployment and administration of a Windows Server 2022 Active Directory environment using Oracle VirtualBox.
+
+The lab was designed to simulate a small enterprise IT infrastructure and provide practical experience in Windows Server administration, Active Directory, DNS, networking, user management and PowerShell.
+
+## Lab Architecture
+
+```text
+                    Internet
+                       |
+                    VirtualBox
+                       |
+                     DC01
+              Windows Server 2022
+                       |
+                 10.0.2.15
+                       |
+                  lab.local
+                       |
+        +--------------+--------------+
+        |                             |
+       IT                         DNS / AD DS
+        |
+   +----+----+
+   |         |
+jdoe      IT-Admins
+
+# Windows Server 2022 Active Directory Lab
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-green)
+![PowerShell](https://img.shields.io/badge/PowerShell-Administration-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-orange)
+
+## Project Overview
+
+This project demonstrates the deployment and administration of a Windows Server 2022 Active Directory environment using Oracle VirtualBox.
+
+The lab was designed to simulate a small enterprise IT infrastructure and provide practical experience in Windows Server administration, Active Directory, DNS, networking, user management and PowerShell.
+
+## Lab Architecture
+
+```text
+                    Internet
+                       |
+                    VirtualBox
+                       |
+                     DC01
+              Windows Server 2022
+                       |
+                 10.0.2.15
+                       |
+                  lab.local
+                       |
+        +--------------+--------------+
+        |                             |
+       IT                         DNS / AD DS
+        |
+   +----+----+
+   |         |
+jdoe      IT-Admins
+
 🖥️ Enterprice LAN Design
 • Designed VLAN based enterprise network. 
 • Implemented inter VLAN routing. 
