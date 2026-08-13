@@ -106,6 +106,7 @@ lab.local
 └── IT
     ├── jdoe
     └── IT-Admins
+
 ```text
 ```
 
@@ -113,6 +114,7 @@ lab.local
 
 - CompTIA Network+ — In Progress
 - Cisco CCNA
+- ITIL foundation
 - Network Security
 - Cybersecurity
 - Microsoft Technologies
@@ -121,6 +123,9 @@ lab.local
 ## Certifications & Qualifications
 
 - Cisco Networking Certificate
+- Cisco Networking Devices and Initial Configuration 
+- Configure Microsoft 365 experience
+- Manage users license guest and contacts in Microsoft 365
 - Jira Fundamentals
 - FreeCodeCamp Web Development Certificate
 - Professional Diploma in Web Development
