@@ -78,7 +78,8 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
 
 ## Lab Architecture
 
-```text
+```bash
+
                     Internet
                        |
                    VirtualBox
@@ -96,18 +97,18 @@ The lab simulates a small enterprise IT infrastructure and provides hands-on exp
               |
              jdoe
 
-```text 
 ```
+
 ## Active Directory Structure
 
-```text
+```bash
+
 lab.local
 │
 └── IT
     ├── jdoe
     └── IT-Admins
 
-```text
 ```
 
 ## Currently Learning
