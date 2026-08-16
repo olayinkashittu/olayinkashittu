@@ -116,9 +116,10 @@ https://github.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab
 
 ---
 
+
 ### 🛠️ IT Troubleshooting Guides
 
-[![IT Troubleshooting Guides](https://github-readme-stats.vercel.app/api/pin/?username=olayinkashittu&repo=it-troubleshooting-guides)](https://github.com/olayinkashittu/it-troubleshooting-guides)
+[![IT Troubleshooting Guides](https://github-readme-stats.vercel.app/api/pin?username=olayinkashittu&repo=it-troubleshooting-guides&theme=github_dark)](https://github.com/olayinkashittu/it-troubleshooting-guides)
 
 A practical collection of troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
 
