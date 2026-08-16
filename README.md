@@ -116,7 +116,7 @@ lab.local
 ---
 
 
-### 🛠️ IT Troubleshooting Guides
+### 2. 🛠️ IT Troubleshooting Guides
 
 🛠️ **IT Support & Troubleshooting**  
 🌐 Windows • Active Directory • Networking • Linux • PowerShell • Microsoft 365
