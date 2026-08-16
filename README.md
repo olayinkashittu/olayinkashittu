@@ -36,7 +36,7 @@ I enjoy troubleshooting technical issues, improving system reliability, supporti
 
 Projects & Practical Work
 
-# Windows Server 2022 Active Directory Lab
+### 1. Windows Server 2022 Active Directory Lab
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-green)
@@ -111,11 +111,40 @@ lab.local
 
 ```
 
-# IT troubleshooting guides
+Repository:
+https://github.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab
 
-A practical collection of IT troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
+---
 
-This repository was created to document real-world troubleshooting procedures, demonstrate hands-on technical skills, and build a professional IT support portfolio.
+### 2. IT Troubleshooting Guides
+
+A practical collection of troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
+
+**Skills demonstrated:**
+
+- Windows Administration
+- Active Directory Administration
+- Microsoft 365 Administration
+- Linux Administration
+- Network Troubleshooting
+- Hardware Diagnostics
+- PowerShell
+- DNS and DHCP Management
+- IT Support
+
+**Topics covered:**
+
+- Wi-Fi Troubleshooting
+- VPN Troubleshooting
+- DNS Troubleshooting
+- Outlook Troubleshooting
+- Blue Screen Troubleshooting
+- Printer Troubleshooting
+- Linux Troubleshooting
+- Active Directory Troubleshooting
+
+Repository:
+https://github.com/olayinkashittu/it-troubleshooting-guides
 
 ## Currently Learning
 
