@@ -116,7 +116,7 @@ https://github.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab
 
 ---
 
-### 2. IT Troubleshooting Guides
+### 🛠️ IT Troubleshooting Guides
 
 [![IT Troubleshooting Guides](https://github-readme-stats.vercel.app/api/pin/?username=olayinkashittu&repo=it-troubleshooting-guides)](https://github.com/olayinkashittu/it-troubleshooting-guides)
 
