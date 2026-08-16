@@ -111,8 +111,7 @@ lab.local
 
 ```
 
-Repository:
-https://github.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab
+👉 [View Project on GitHub](https://github.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab)
 
 ---
 
