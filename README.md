@@ -111,6 +111,12 @@ lab.local
 
 ```
 
+# IT troubleshooting guides
+
+A practical collection of IT troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
+
+This repository was created to document real-world troubleshooting procedures, demonstrate hands-on technical skills, and build a professional IT support portfolio.
+
 ## Currently Learning
 
 - CompTIA Network+ — In Progress
