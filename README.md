@@ -148,9 +148,6 @@ A practical collection of troubleshooting guides covering Windows, Active Direct
 - Linux Troubleshooting
 - Active Directory Troubleshooting
 
-Repository:
-https://github.com/olayinkashittu/it-troubleshooting-guides
-
 ## Currently Learning
 
 - CompTIA Network+ — In Progress
