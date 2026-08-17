@@ -29,6 +29,7 @@ I enjoy troubleshooting technical issues, improving system reliability, supporti
 - Windows Server 2022 Active Directory Domain Controller Lab
 - Active Directory user and group management
 - IT Troubleshooting Guides
+- Cisco networking and troubleshooting labs
 - Windows Server and DNS configuration
 - Linux administration labs
 - PowerShell automation projects
