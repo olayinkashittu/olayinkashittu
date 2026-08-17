@@ -125,6 +125,26 @@ lab.local
 
 A practical collection of troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
 
+### Repository Structure
+
+---bash
+it-troubleshooting-guides
+│
+├── docs
+│   ├── Active-Directory
+│   ├── Hardware
+│   ├── Linux
+│   ├── Microsoft-365
+│   ├── Networking
+│   └── Windows
+│
+├── images
+├── README.md
+├── index.html
+├── style.css
+└── script.js
+---
+
 **Skills demonstrated:**
 
 - Windows Administration
