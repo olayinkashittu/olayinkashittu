@@ -144,7 +144,63 @@ it-troubleshooting-guides
 ├── style.css
 └── script.js
 ```
+**Topics Covered**
 
+### Windows
+
+- Blue Screen Troubleshooting
+- Slow Computer Troubleshooting
+- Software Installation Troubleshooting
+- Windows Update Troubleshooting
+  
+### Active Directory
+
+- Account Lockout
+- Group Policy
+- Organizational Units
+- Password Reset
+- User Management
+  
+### Networking
+
+- DHCP Troubleshooting
+- DNS Troubleshooting
+- IP Configuration Commands
+- Network Connectivity Troubleshooting
+- VPN Troubleshooting
+- Wi-Fi Troubleshooting
+  
+### Linux
+
+- File Permissions
+- Networking Commands
+- SSH Troubleshooting
+- User Management
+  
+### Microsoft 365
+
+- Mailbox Issues
+- Outlook Troubleshooting
+- Password Reset
+- Microsoft Teams Troubleshooting
+  
+### Hardware
+
+- Bluetooth Troubleshooting
+- Keyboard Troubleshooting
+- Monitor Troubleshooting
+- Printer Troubleshooting
+  
+### Technologies Used:
+- Windows Server
+- Active Directory
+- Microsoft 365
+- Linux
+- PowerShell
+- GitHub
+- VirtualBox
+- Networking Tools
+- 
 **Skills demonstrated:**
 
 - Windows Administration
