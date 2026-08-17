@@ -127,7 +127,7 @@ A practical collection of troubleshooting guides covering Windows, Active Direct
 
 ### Repository Structure
 
----bash
+```bash
 it-troubleshooting-guides
 │
 ├── docs
@@ -143,7 +143,7 @@ it-troubleshooting-guides
 ├── index.html
 ├── style.css
 └── script.js
----
+```
 
 **Skills demonstrated:**
 
