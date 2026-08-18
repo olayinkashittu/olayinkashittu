@@ -44,6 +44,7 @@ Projects & Practical Work
 ![PowerShell](https://img.shields.io/badge/PowerShell-Administration-blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-orange)
 
+
 ## Project Overview
 
 This project demonstrates the deployment and administration of a Windows Server 2022 Active Directory environment using Oracle VirtualBox.
