@@ -229,7 +229,7 @@ it-troubleshooting-guides
 
 Hands-on networking projects covering Cisco networking, network configuration, troubleshooting, and practical lab exercises.
 
-[![Networking Labs](https://github-readme-stats.vercel.app/api/pin/?username=olayinkashittu&repo=networking-labs&show_owner=true)](https://github.com/olayinkashittu/networking-labs)
+![Networking Lab](https://raw.githubusercontent.com/olayinkashittu/networking-labs/main/images/networking-lab.png)
 
 ### Repository Structure
 
