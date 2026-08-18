@@ -225,7 +225,7 @@ it-troubleshooting-guides
 - Linux Troubleshooting
 - Active Directory Troubleshooting
 
-  ### 3. 🌐 Networking Labs
+### 3. 🌐 Networking Labs
 
 Hands-on networking projects covering Cisco networking, network configuration, troubleshooting, and practical lab exercises.
 
