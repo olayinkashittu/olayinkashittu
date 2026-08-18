@@ -44,6 +44,7 @@ Projects & Practical Work
 ![PowerShell](https://img.shields.io/badge/PowerShell-Administration-blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-orange)
 
+![Windows Server](https://raw.githubusercontent.com/olayinkashittu/windows-server-2022-active-directory-lab/main/screenshots/active-directory-users.png)
 
 ## Project Overview
 
