@@ -229,11 +229,24 @@ it-troubleshooting-guides
 
 Hands-on networking projects covering Cisco networking, network configuration, troubleshooting, and practical lab exercises.
 
-**📁 Project Structure**
-- `certificates/` — Networking certifications and certificates
-- `documentation/` — Lab documentation and guides
-- `images/` — Lab screenshots and visual evidence
-- `README.md` — Project overview and documentation
+### Repository Structure
+
+```bash
+
+networking-labs/
+│
+├── 📁 certificates/
+│   └── Networking certificates
+│
+├── 📁 documentation/
+│   └── Lab guides and documentation
+│
+├── 📁 images/
+│   └── Lab screenshots and evidence
+│
+└── 📄 README.md
+
+```
 
 **📌 Project Overview**
 
