@@ -116,6 +116,8 @@ lab.local
 
 ![DC01 Server](https://raw.githubusercontent.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab/main/08-Screenshots/dc01-server.png)
 
+![PowerShell Verification](https://raw.githubusercontent.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab/main/08-Screenshots/powershell-verification.png)
+
 👉 [View Project on GitHub](https://github.com/olayinkashittu/Windows-Server-2022-Active-Directory-Lab)
 
 ---
