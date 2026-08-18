@@ -225,6 +225,34 @@ it-troubleshooting-guides
 - Linux Troubleshooting
 - Active Directory Troubleshooting
 
+  ### 🌐 Networking Labs
+
+Hands-on networking projects covering Cisco networking, network configuration, troubleshooting, and practical lab exercises.
+
+**📁 Project Structure**
+- `certificates/` — Networking certifications and certificates
+- `documentation/` — Lab documentation and guides
+- `images/` — Lab screenshots and visual evidence
+- `README.md` — Project overview and documentation
+
+**📌 Project Overview**
+
+A collection of hands-on networking labs designed to demonstrate practical skills in network configuration, troubleshooting, Cisco technologies, and network fundamentals.
+
+**📚 Topics Covered**
+
+- Cisco networking fundamentals
+- IP addressing and subnetting
+- Network configuration
+- Static IP configuration
+- Network troubleshooting
+- Cisco Packet Tracer labs
+- Virtual networking
+- TCP/IP and networking concepts
+- Practical network documentation
+
+[![Networking Labs](https://github-readme-stats.vercel.app/api/pin/?username=olayinkashittu&repo=networking-labs)](https://github.com/olayinkashittu/networking-labs)
+
 ## Currently Learning
 
 - CompTIA Network+ — In Progress
