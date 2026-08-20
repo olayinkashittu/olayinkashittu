@@ -132,6 +132,12 @@ lab.local
 
 A practical collection of troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
 
+![Active Directory Users](https://raw.githubusercontent.com/olayinkashittu/it-troubleshooting-guides/main/images/active-directory-users.png)
+
+![Account Verification](https://raw.githubusercontent.com/olayinkashittu/it-troubleshooting-guides/main/images/account-verification.png)
+
+![Domain Controller](https://raw.githubusercontent.com/olayinkashittu/it-troubleshooting-guides/main/images/domain-controller.png)
+
 ### Repository Structure
 
 ```bash
