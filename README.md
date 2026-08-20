@@ -132,6 +132,18 @@ lab.local
 
 A practical collection of troubleshooting guides covering Windows, Active Directory, Networking, Linux, Microsoft 365, and Hardware support.
 
+### Project Highlights
+🛠️ Practical IT Troubleshooting — Step-by-step guides for diagnosing and resolving common IT issues.
+🖥️ Active Directory — Guides covering account lockouts, password resets, Group Policy, Organizational Units, and user administration.
+🌐 Networking — Troubleshooting resources for DNS, DHCP, IP configuration, connectivity, and common network problems.
+🔐 Security & Access — Documentation for authentication, permissions, account access, and basic security troubleshooting.
+⚙️ Windows Administration — Practical solutions for common Windows Server and workstation issues.
+📚 Beginner-Friendly Documentation — Clear explanations designed for students, junior IT professionals, and system administrators.
+🧪 Hands-On Labs — Troubleshooting scenarios that can be reproduced in a lab environment.
+📋 Structured Troubleshooting — Guides organized around symptoms, possible causes, diagnosis, and solutions.
+🔄 Continuously Expandable — Designed to grow as new troubleshooting scenarios and solutions are added.
+📖 Real-World Reference — Built as a quick-reference knowledge base for everyday IT support and administration.
+
 ![Active Directory Users](https://raw.githubusercontent.com/olayinkashittu/it-troubleshooting-guides/main/images/active-directory-users.png)
 
 ![Account Verification](https://raw.githubusercontent.com/olayinkashittu/it-troubleshooting-guides/main/images/account-verification.png)
