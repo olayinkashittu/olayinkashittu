@@ -225,7 +225,7 @@ it-troubleshooting-guides
 - GitHub
 - VirtualBox
 - Networking Tools
-- 
+  
 **Skills demonstrated:**
 
 - Windows Administration
