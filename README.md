@@ -290,7 +290,7 @@ A collection of hands-on networking labs designed to demonstrate practical skill
 - TCP/IP and networking concepts
 - Practical network documentation
 
-### 3. 🐧 Ubuntu User & Permission Management Lab
+### 4. 🐧 Ubuntu User & Permission Management Lab
 
 Hands-on Ubuntu Linux system administration project demonstrating user and group management, file ownership, permissions, and role-based access control.
 
