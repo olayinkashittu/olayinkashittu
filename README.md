@@ -290,6 +290,30 @@ A collection of hands-on networking labs designed to demonstrate practical skill
 - TCP/IP and networking concepts
 - Practical network documentation
 
+### 3. 🐧 Ubuntu User & Permission Management Lab
+
+Hands-on Ubuntu Linux system administration project demonstrating user and group management, file ownership, permissions, and role-based access control.
+
+**What I implemented:**
+
+- 👤 Created and configured Linux users: **Sadan** and **John**
+- 👥 Created role-based groups: **developers** and **support**
+- 📁 Created separate `/project` and `/support` directories
+- 🔐 Configured `770` permissions and group-based access
+- 🧪 Tested both successful and denied access scenarios
+- 📝 Documented the complete lab with screenshots
+- 🔗 Managed and documented the project using Git and GitHub
+
+**Access Control:**
+
+```bash 
+Sadan → developers → /project → ✅ Allowed
+John  → support    → /support → ✅ Allowed
+
+John  → /project  → ❌ Denied
+Sadan → /support  → ❌ Denied
+```
+
 ## Currently Learning
 
 - CompTIA Network+ — In Progress
