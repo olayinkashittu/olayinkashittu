@@ -314,6 +314,15 @@ John  → /project  → ❌ Denied
 Sadan → /support  → ❌ Denied
 ```
 
+### 5. 🩺 Ubuntu System Health Checker
+
+A Bash-based Linux system health monitoring tool that checks essential Ubuntu system information and health metrics.
+
+**Skills:** Linux Administration • Bash Scripting • System Monitoring • Networking • File Permissions
+
+🔗 [View Project](https://github.com/olayinkashittu/ubuntu-system-health-checker)
+
+
 ## Currently Learning
 
 - CompTIA Network+ — In Progress
